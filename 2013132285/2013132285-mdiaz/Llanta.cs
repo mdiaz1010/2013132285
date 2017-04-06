@@ -8,5 +8,16 @@ namespace _2013132285_mdiaz
 {
     class Llanta
     {
+        public string NumSerie { get; set; }
+
+        public Llanta(String _numSerie)
+        {
+            NumSerie = _numSerie;
+        }
+
+        public Llanta()
+        {
+
+        }
     }
 }

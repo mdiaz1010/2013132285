@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013132285_mdiaz
 {
-    class numTipoBus
+    enum numTipoBus
     {
     }
 }

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace _2013132285_mdiaz
 {
-    class Bus
+    class Bus:Carro
     {
+        public numTipoBus TipoBus { get; set; }
+        public Bus():base()
+    {
+
+    }
     }
 }

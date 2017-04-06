@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace _2013132285_mdiaz
 {
-    class Automovil
+    class Automovil:Carro
     {
+        public numTipoAuto TipoAuto { get; set; }
+
+        public Automovil():base()
+        {
+
+        }
+
+
+
     }
 }
