@@ -1,0 +1,5 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013132285\2013132285\2013132285-mdiaz\bin\Debug\2013132285-mdiaz.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013132285\2013132285\2013132285-mdiaz\bin\Debug\2013132285-mdiaz.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013132285\2013132285\2013132285-mdiaz\obj\Debug\2013132285-mdiaz.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013132285\2013132285\2013132285-mdiaz\obj\Debug\2013132285-mdiaz.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013132285\2013132285\2013132285-mdiaz\obj\Debug\2013132285-mdiaz.pdb
